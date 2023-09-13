@@ -10559,15 +10559,15 @@ Xt.default = Pr;
 })(hi, hi.exports);
 var Xm = hi.exports;
 const af = Fs(Xm),
-  cf = "./krolik-4f800ed9.jpg",
-  Gm = "./svecha-ac98ce44.jpg",
-  Zm = "./wheel-469cf507.png",
-  qm = "./solntse-0630e702.jpg",
-  Jm = "./kapusta-5d5ed2d4.jpg",
-  bm = "./glasses-6b6a71e3.png",
-  ev = "./vopros-74d88b32.jpg",
-  tv = "./veter-0bc10828.jpg",
-  nv = "./trava-54970f81.jpg";
+  cf = "./assets/krolik-4f800ed9.jpg",
+  Gm = "./assets/svecha-ac98ce44.jpg",
+  Zm = "./assets/wheel-469cf507.png",
+  qm = "./assets/solntse-0630e702.jpg",
+  Jm = "./assets/kapusta-5d5ed2d4.jpg",
+  bm = "./assets/glasses-6b6a71e3.png",
+  ev = "./assets/vopros-74d88b32.jpg",
+  tv = "./assets/veter-0bc10828.jpg",
+  nv = "./assets/trava-54970f81.jpg";
 af.setAppElement("#root");
 const rv = {
     content: {
