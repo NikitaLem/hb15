@@ -2,11 +2,7 @@ import "./App.css";
 import { Game } from "./Game";
 
 function App() {
-  return (
-    <>
-      <Game />
-    </>
-  );
+  return <Game />;
 }
 
 export default App;
