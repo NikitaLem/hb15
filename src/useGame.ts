@@ -17,7 +17,7 @@ export const useGame = () => {
 
     const canvas = canvasRef.current;
     canvas.width = document.body.offsetWidth;
-    canvas.height = document.body.offsetHeight * 2;
+    canvas.height = document.body.offsetHeight * 3;
     ctx.current = canvas.getContext("2d") as CanvasRenderingContext2D;
   }, []);
 

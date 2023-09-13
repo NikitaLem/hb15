@@ -9040,7 +9040,7 @@ const J = 20,
       if (!e.current) return;
       const f = e.current;
       (f.width = document.body.offsetWidth),
-        (f.height = document.body.offsetHeight * 2),
+        (f.height = document.body.offsetHeight * 3),
         (t.current = f.getContext("2d"));
     }, []),
       B.useEffect(() => {
